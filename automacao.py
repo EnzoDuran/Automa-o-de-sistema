@@ -1,5 +1,4 @@
 import pyautogui
-import pyperclip
 import time
 pyautogui.PAUSE = 1
 #entrar no google drive
