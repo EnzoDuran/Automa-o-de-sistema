@@ -15,6 +15,6 @@ time.sleep(1)
 pyautogui.moveTo(x=44, y=354)
 pyautogui.mouseDown()
 pyautogui.moveTo(x=1127, y=461)
-#abrir o google drive e colocar e soltar o arquivo
+#abrir o google drive e soltar o arquivo
 pyautogui.hotkey("alt","tab")
 pyautogui.mouseUp()
